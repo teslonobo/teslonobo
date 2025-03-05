@@ -79,10 +79,10 @@
 <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" width='40'/>
 </a>
 <a href='https://www.apple.com/' target='_blank'>
-</div>
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apple.png" width='40'/>
 </a>
 <a href='https://www.android.com/' target='_blank'>
 <img src="https://icon.icepanel.io/Technology/svg/Android.svg" width='40'/>
 </a>
 </p>
+</div>
