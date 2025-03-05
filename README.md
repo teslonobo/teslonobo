@@ -1,11 +1,11 @@
 <br>
 <div align='center'>
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&repeat=false&multiline=False&width=200&height=70&lines=.+.+%F0%9F%91%8B+Hey+There;.+.+.+I'm+Tes;.+.+Night+%F0%9F%A6%89;.+.+Coding+++%F0%9F%A7%99;.+.+Jack+of+Many;.+Master+of+Some!" alt="Typing Intro"/></a>
-</div>
+
 <pre>
-<p style='text-align:center'>💼 <span style="font-weight: bold;color: #EF8838; font-size:28">Engineer</span>
-📖 <span style='font-size:16'>Data Structures & Algorithms, C++, Etc.</span>
-<span style='font-size:20'>• 🎮 • 🎧 • • 👩🏻‍💻 • • 🖼️ • 🎥 •</span>
+<p style='text-align:center'>💼 Engineer
+📖 Data Structures & Algorithms, C++, Etc.
+• 🎮 • 🎧 • • 👩🏻‍💻 • • 🖼️ • 🎥 •
 </pre>
 <br>
 <p style='text-align:center'>
@@ -79,6 +79,7 @@
 <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" width='40'/>
 </a>
 <a href='https://www.apple.com/' target='_blank'>
+</div>
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apple.png" width='40'/>
 </a>
 <a href='https://www.android.com/' target='_blank'>
