@@ -1,16 +1,14 @@
-<div align="center">
-<img src="https://c.pxhere.com/photos/ab/be/code_hacker_data_security_technology_digital_password_crime-742594.jpg!d" style="border-radius: 10px; opacity: 0.5; filter: sepia(1) saturate(1000%) hue-rotate(190deg)" width="25%" height="770" align="right" alt='Hacker Image'/>
-
-<br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&multiline=true&width=800&height=60&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Tes;Coding+alchemist%2C+transforming+lines+into+limitless+possibilities." alt="Typing Intro" width="70%"/></a>
-
+<br>
+<div align='center'>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&repeat=false&multiline=False&width=200&height=70&lines=.+.+%F0%9F%91%8B+Hey+There;.+.+.+I'm+Tes;.+.+Night+%F0%9F%A6%89;.+.+Coding+++%F0%9F%A7%99;.+.+Jack+of+Many;.+Master+of+Some!" alt="Typing Intro"/></a>
+</div>
 <pre>
-💼 <span style="font-weight: bold;color: #EF8838; font-size:28">Engineer</span>
-📖 <span style='font-size:16'>Data Structures & Algorithms, C++</span>
+<p style='text-align:center'>💼 <span style="font-weight: bold;color: #EF8838; font-size:28">Engineer</span>
+📖 <span style='font-size:16'>Data Structures & Algorithms, C++, Etc.</span>
 <span style='font-size:20'>• 🎮 • 🎧 • • 👩🏻‍💻 • • 🖼️ • 🎥 •</span>
 </pre>
 <br>
-<p>
+<p style='text-align:center'>
 <a href='https://www.python.org/' target='_blank'>
 <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width='40'/>
 </a>
@@ -27,12 +25,12 @@
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Markdown.png" width='40'/>
 </a>
 </p>
-<p>
+<p style='text-align:center'>
 <a href='https://nodejs.org/' target='_blank'>
 <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width='40'/>
 </a>
 </p>
-<p>
+<p style='text-align:center'>
 <a href='https://getbootstrap.com/' target='_blank'>
 <img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" width='40'/>
 </a>
@@ -46,7 +44,7 @@
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" width='40'/>
 </a>
 </p>
-<p>
+<p style='text-align:center'>
 <a href='https://www.sqlite.org/index.html' target='_blank'>
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" width='40'/>
 </a>
@@ -57,7 +55,7 @@
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width='40'/>
 </a>
 </p>
-<p>
+<p style='text-align:center'>
 <a href='https://www.gnu.org/software/bash/' target='_blank'>
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" width='40'/>
 </a>
@@ -65,12 +63,12 @@
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Powershell.png" width='40'/>
 </a>
 </p>
-<p>
+<p style='text-align:center'>
 <a href='https://code.visualstudio.com/' target='_blank'>
 <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width='40'/>
 </a>
 </p>
-<p>
+<p style='text-align:center'>
 <a href='https://learn.microsoft.com/en-us/windows/whats-new/windows-11-overview' target='_blank'>
 <img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" width='40'/>
 </a>
@@ -87,4 +85,3 @@
 <img src="https://icon.icepanel.io/Technology/svg/Android.svg" width='40'/>
 </a>
 </p>
-</div>
